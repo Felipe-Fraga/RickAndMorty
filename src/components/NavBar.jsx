@@ -20,7 +20,7 @@ export const NavBar = ({ setName, gender, setGender }) => {
     };
 
     return (
-        <nav className="border-b-[2px] border-light sm:flex mx-auto w-[80%] text-light py-4 justify-between">
+        <nav className="border-b-[2px] border-light sm:flex mx-auto w-[80%] text-light py-4 justify-between items-center">
 
             <div className='flex justify-between items-center w-[100%] sm:w-[55%]'>
 
