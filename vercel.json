@@ -1,10 +1,10 @@
 {
     "rewrites": [{
-            "source": "/",
+            "source": "/home",
             "destination": "/home"
         },
         {
-            "source": "/",
+            "source": "/game",
             "destination": "/game"
         }
     ]
