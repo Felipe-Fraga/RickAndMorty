@@ -1,9 +1,11 @@
 {
     "rewrites": [{
-        "source": "/home",
-        "destination": "/home"
-    },
-    {"source": "/game",
-    "destination": "/game"}
-]
+            "source": "/",
+            "destination": "/home"
+        },
+        {
+            "source": "/",
+            "destination": "/game"
+        }
+    ]
 }
